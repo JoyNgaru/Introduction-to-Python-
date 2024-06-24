@@ -4,10 +4,10 @@ Python is known for its simplicity and readability. In this guide, we'll cover t
 **Variables:**
 Learn how to declare and assign values to variables, and understand the different data types in Python.
 
-**Operators: **
+**Operators:**
 Explore the various types of operators in Python, such as arithmetic, comparison, assignment, logical, and bitwise operators.
 
-**Input and Output: **
+**Input and Output:**
 Learn how to take user input, display output to the console, and format strings using placeholders and f-strings.
 
 **Control Flow:** 
